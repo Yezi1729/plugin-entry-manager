@@ -1,5 +1,3 @@
-<img width="1295" height="900" alt="image" src="https://github.com/user-attachments/assets/fa645a58-0cba-4201-9e6d-77234d541175" /># plugin-entry-manager
-
 DSH 的**插件主页面管理器**：把有主页面（`main` 注册）的插件按用户自定义的文件夹组织，可以从 PEM 的文件夹页或侧栏成员树打开。
 
 > **只管理主页面入口，不管理插件启停，也不控制其他插件的原生左栏行。** 本插件不启用/停用、不安装/卸载任何插件，也不修改其他插件的文件。
@@ -9,8 +7,15 @@ DSH 的**插件主页面管理器**：把有主页面（`main` 注册）的插�
 - 设计文档：[../DESIGN-plugin-entry-manager.md](../DESIGN-plugin-entry-manager.md)
 - 进度记录：[../PROGRESS.md](../PROGRESS.md)
 
+## 图片展示
+
+### Page 1
 <img width="1295" height="900" alt="2bf77823-6aea-4c61-97e9-1ede1c69cd1e" src="https://github.com/user-attachments/assets/9ff55610-4e8c-4038-91e7-6c5b42ea416a" />
+
+### Page 2
 <img width="1275" height="973" alt="image" src="https://github.com/user-attachments/assets/4803d874-b383-40c4-8732-0fd79d7b3d38" />
+
+### Page 3
 <img width="647" height="279" alt="image" src="https://github.com/user-attachments/assets/be3ace52-a979-45af-9fb7-5502a7f3248d" />
 
 
