@@ -1,0 +1,6 @@
+# plugin-entry-manager bundle patch
+# 一个 host + client 同包的本地插件：侧栏入口负责分组导航，host 只持久化入口配置。
+- insert:
+    - id: plugin-entry-manager
+      name: '@local/plugin-entry-manager'
+      config: {}
