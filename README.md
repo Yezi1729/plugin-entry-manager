@@ -10,6 +10,7 @@ DSH 的**插件主页面管理器**：把有主页面（`main` 注册）的插�
 - 进度记录：[../PROGRESS.md](../PROGRESS.md)
 
 <img width="1295" height="900" alt="2bf77823-6aea-4c61-97e9-1ede1c69cd1e" src="https://github.com/user-attachments/assets/9ff55610-4e8c-4038-91e7-6c5b42ea416a" />
+<img width="1275" height="973" alt="image" src="https://github.com/user-attachments/assets/4803d874-b383-40c4-8732-0fd79d7b3d38" />
 <img width="647" height="279" alt="image" src="https://github.com/user-attachments/assets/be3ace52-a979-45af-9fb7-5502a7f3248d" />
 
 
